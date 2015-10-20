@@ -14,9 +14,6 @@
     <gap:plugin name="org.apache.cordova.device" />
     <gap:plugin name="cordova-plugin-inappbrowser" source="npm"  />
 	<gap:plugin name="org.apache.cordova.splashscreen" />
-	<feature name="Device">
-		<param name="android-package" value="org.apache.cordova.device.Device" />
-	</feature>
 	<icon src="icon.png" />
     <content src="index.html" />
     <access origin="*" />
