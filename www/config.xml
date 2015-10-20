@@ -12,7 +12,7 @@
 	<preference name="android-minSdkVersion" value="15" />
 	<preference name="fullscreen" value="true" />
     <gap:plugin name="org.apache.cordova.device" />
-    <gap:plugin name="org.apache.cordova.inappbrowser" />
+    <gap:plugin name="cordova-plugin-inappbrowser" source="npm"  />
 	<gap:plugin name="org.apache.cordova.splashscreen" />
 	<feature name="Device">
 		<param name="android-package" value="org.apache.cordova.device.Device" />
