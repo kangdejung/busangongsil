@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.dungzi.busangongsil" version="10" xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>오투오빌</name>
+    <name>부산공실</name>
     <description>	
-        오투오빌
+        부산공실
     </description>
     <author email="webplug@gmail.com" href="http://www.dungzi.com/">
         Dungzi Team
@@ -15,7 +15,7 @@
 	<gap:plugin name="cordova-plugin-whitelist" source="npm" />
     <gap:plugin name="cordova-plugin-inappbrowser" source="npm"  />
 	<gap:plugin name="org.apache.cordova.splashscreen" />
-	<allow-navigation href="http://demo.dungzi.com/*" />
+	<allow-navigation href="http://xn--ob0bs72a7lcr0c.com/*" />
 	<icon src="icon.png" />
     <content src="index.html" />
     <access origin="*" />
