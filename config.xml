@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.dungzi.busangongsil" version="11" android-versionCode="33" xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.dungzi.busangongsil" version="11" android-versionCode="34" xmlns="http://www.w3.org/ns/widgets"  xmlns:gap="http://phonegap.com/ns/1.0">
     <name>부산공실</name>
     <description>	
         부산공실
