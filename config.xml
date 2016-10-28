@@ -8,15 +8,14 @@
         Dungzi Team
     </author>
 	<preference name="AutoHideSplashScreen" value="false" />
-	<preference name="SplashScreenDelay" value="10000" />
+	<preference name="SplashScreenDelay" value="5000" />
 	<preference name="android-minSdkVersion" value="15" />
 	<preference name="fullscreen" value="true" />
 	<gap:plugin name="org.apache.cordova.device" />
 	<gap:plugin name="cordova-plugin-whitelist" source="npm" />
 	<gap:plugin name="cordova-plugin-inappbrowser" source="npm"  />
 	<gap:plugin name="org.apache.cordova.splashscreen" />
-	<allow-navigation href="http://busangongsil.dungzi.com/*" />
+	<allow-navigation href="*" />
 	<icon src="icon.png" />
-	<content src="index.html" />
 	<access origin="*" />
 </widget>
